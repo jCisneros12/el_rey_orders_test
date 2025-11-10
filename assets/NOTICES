@@ -4980,9 +4980,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 flutter_lints
 plugin_platform_interface
 url_launcher
-url_launcher_ios
 url_launcher_linux
-url_launcher_macos
 url_launcher_platform_interface
 url_launcher_windows
 
@@ -32785,6 +32783,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 url_launcher_android
+url_launcher_ios
+url_launcher_macos
 
 Copyright 2013 The Flutter Authors
 
